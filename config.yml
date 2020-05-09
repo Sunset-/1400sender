@@ -1,0 +1,9 @@
+#携程池大小
+concurrent_size: 100
+
+#发送地址
+http_request_url: http://127.0.0.1:15000/VIID/MotorVehicles
+#视图库ID
+viewlib_id: 1245248239085902348
+#数据文件
+data_file: face.json
